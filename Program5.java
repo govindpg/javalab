@@ -8,3 +8,5 @@ public class Program5{
         System.out.println("Sum = "+sum);
     }
 }
+OUTPUT
+Sum = 5050
