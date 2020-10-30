@@ -1,7 +1,7 @@
 import java.io.*;
     public class Program4{
         public static void main(String[] args){
-            int n1=2;
+            int n1=97;
             Prime(n1);
         }
         static void Prime(int n)
@@ -24,4 +24,6 @@ import java.io.*;
 
 
     }
+OUTPUT
+97 is a Prime Number
 
