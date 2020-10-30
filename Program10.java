@@ -22,3 +22,5 @@ public class Program10{
     }
 
 }
+OUTPUT
+407 is an armstrong number.
