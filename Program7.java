@@ -15,3 +15,5 @@ public class Program7{
         System.out.print(a+" "+b); p(n-2);
     }
 }
+OUTPUT
+0 1 1 2 3 5 8 13 21 34
