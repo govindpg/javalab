@@ -6,3 +6,6 @@ public class Program1 {
         System.out.println("hello world");
     }
 }
+ 
+OUTPUT
+hello world
