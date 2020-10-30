@@ -19,3 +19,6 @@ public class Program9{
     }
 
 }
+OUTPUT
+1234321 is a palindrome number.
+
