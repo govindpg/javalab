@@ -9,3 +9,6 @@ public class Program3 {
 
     }
 }
+
+OUTPUT
+a is an even number
