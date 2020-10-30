@@ -1,4 +1,4 @@
-# javalab
-NAME:GOVIND P G
-  CLASS:S3C
-      ROLL NO:27
+# javalab S3C
+GOVIND P G
+S3C ROLL NO 27
+CHN19CS055
